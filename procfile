@@ -1,1 +1,1 @@
-web: gunicorn MEDIUS.wsgi --log-file -
+web: gunicorn Medius.wsgi --log-file -
