@@ -18,7 +18,7 @@ MouseInfo==0.1.3
 numpy==1.19.4
 opencv-python==4.4.0.46
 pefile==2019.4.18
-Pillow==8.2.0
+Pillow==8.3.2
 platformdirs==2.2.0
 psycopg2==2.9.1
 PyAutoGUI==0.9.52
